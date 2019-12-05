@@ -1,0 +1,21 @@
+* {
+  font-family: sans-serif;
+}
+.container {
+  display: flex;
+  justify-content: center;
+  padding: 5em;
+  background-color: #f5ebf5
+
+}
+.input-container {
+  background-color: #ffe6ff;
+  padding: 10px 150px;
+  border-radius: 10px;
+  box-shadow: 0px 5px 10px
+}
+
+#feet {
+  border-radius: 5px;
+  padding: 0.5em
+}
